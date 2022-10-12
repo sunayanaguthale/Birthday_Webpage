@@ -1,0 +1,94 @@
+* {
+  width: 100%;
+  font-family: "Times New Roman", Times, serif;
+  margin-top: 0%;
+}
+.btn {
+  padding: 15px 30px;
+  background: transparent;
+  border: 2px solid;
+  font-weight: bold;
+  float: right;
+  margin-top: 0;
+  margin-left: 75%;
+  outline: none;
+  width: 200px;
+  background-color: rgb(152, 72, 184);
+}
+.btn a {
+  text-decoration: none;
+  color: black;
+  font-size: 16px;
+}
+#bday {
+  background-image: url(img/bk3.jpeg);
+  background-size: cover;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  padding: 100px 0;
+}
+.bone {
+  flex-basis: 50%;
+}
+.bone img {
+  width: 400px;
+  height: 500px;
+  margin-left: 100px;
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+.bcontent {
+  max-width: 450px;
+  display: inline-block;
+  margin-bottom: 0;
+}
+.btwo {
+  flex-basis: 50%;
+}
+.btwo h1 {
+  margin-left: 30px;
+  font-size: 40px;
+  color: black;
+}
+#cake {
+  width: 200px;
+  height: 300px;
+  margin-left: 150px;
+}
+#wishes {
+  background-color: black;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 100px 0;
+  align-items: center;
+}
+.wone {
+  flex-basis: 50%;
+}
+.wone img {
+  width: 400px;
+  height: 500px;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 150px;
+}
+.wcontent {
+  max-width: 450px;
+  margin-bottom: 0;
+  margin-top: 0%;
+  color: white;
+}
+.wtwo {
+  flex-basis: 50%;
+}
+.wtwo img {
+  width: 450px;
+  height: 350px;
+}
+.bkb img {
+  background-color: black;
+  width: 100%;
+  height: 40%;
+  margin-top: 0%;
+}
